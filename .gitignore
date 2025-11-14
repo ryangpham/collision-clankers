@@ -1,0 +1,8 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
