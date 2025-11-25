@@ -1,0 +1,23 @@
+{
+  "missingness": [
+    "End_Lat",
+    "End_Lng"
+  ],
+  "eda_based": [
+    "End_Time",
+    "Description",
+    "Distance(mi)",
+    "Wind_Chill(F)",
+    "Nautical_Twilight",
+    "Astronomical_Twilight",
+    "Civil_Twilight",
+    "Airport_Code",
+    "Street",
+    "Zipcode"
+  ],
+  "low_variance": [
+    "Country",
+    "Turning_Loop"
+  ],
+  "collinearity": []
+}
