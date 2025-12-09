@@ -3,8 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://i.scdn.co/image/ab67616d00001e02e6d8813d551853539aba13ee" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
 # COLLISION-CLANKERS
 
 <em></em>
